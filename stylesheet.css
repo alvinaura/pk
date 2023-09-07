@@ -9,4 +9,7 @@ img {
   width: 70px
 p {
   color : #0000ff;
+  font-size: 30px;
+  height: 80px;
+  width: 200px;
 }
