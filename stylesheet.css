@@ -1,7 +1,12 @@
 hl {
-  color : #ff0000;
+  color: #e6855e;
+  font-size: 30px;
+  height: 80px;
+  width: 200px;
 }
-
+img {
+  height: 50px;
+  width: 70px
 p {
   color : #0000ff;
 }
