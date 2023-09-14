@@ -14,14 +14,20 @@ p{
   font-size: 20px;
   font-family:"luciana grande"
 }
-footer-logo {
+.footer{
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}   
+.footer-logo {
   font-size: 32px;
   float: left;
 }
-footer-list {
+.footer-list {
   float: right;
 }
-footer-list li {
+.footer-list li {
   padding-bottom:
 }
 .main {
