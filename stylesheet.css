@@ -36,3 +36,12 @@ footer-list li {
 .copy-container span {
   color: #ff4a4a;
 }
+.contents {
+  height : 500px;
+}
+.section-tille {
+  border-bottom: 2px solid #dee7ec;
+}
+.contents-item {
+  float: left;
+}
