@@ -17,10 +17,22 @@ p{
 footer-logo {
   font-size: 32px;
   float: left;
-  }
+}
 footer-list {
   float: right;
 }
 footer-list li {
   padding-bottom:
-    }
+}
+.main {
+  padding: 100px 80px;
+}
+.copy-container h1 {
+  font-size: 140px;
+}
+.copy-container h2 {
+  font-size: 60px;
+}
+.copy-container span {
+  color: #ff4a4a;
+}
