@@ -1,12 +1,8 @@
-*{
-  box-sizing: border-box;
+@media (max-width: 1000px) {
+
+.lesson{
+  width: 50%;
+  margin-bottom: 50px;
+  }
 }
-.container {
-  /*ubah width ke 100%*/
-  width: 100%
-  padding: 0 15px;
-  margin: 0 auto;
-}
-body {
-  margin:0;
-  font-family: Lucida Grand;
+  
