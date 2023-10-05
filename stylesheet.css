@@ -108,3 +108,16 @@ background-image: url(https://prog-8.com/images/html/advanced/top_en.png)
 background-size: cover;
 color: white;
 .
+  *{
+  box-sizing: border-box;
+}
+.container {
+  /*ubah width ke 100%*/
+  width: 100%
+  padding: 0 15px;
+  margin: 0 auto;
+}
+body {
+  margin:0;
+  font-family: Lucida Grand;
+
