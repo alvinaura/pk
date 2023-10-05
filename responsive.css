@@ -1,8 +1,11 @@
-@media (max-width: 1000px) {
+@media (max-width: 670px) {
 
 .lesson{
-  width: 50%;
-  margin-bottom: 50px;
+  width: 100%;
+  }
+
+  footer{
+    text-align:center;
   }
 }
   
